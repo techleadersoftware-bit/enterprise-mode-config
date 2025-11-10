@@ -1,0 +1,18 @@
+<site-list version="2">
+<site url="http://190.117.78.247/">
+<compat-mode>Default</compat-mode>
+<open-in allow-redirect="true">IE11</open-in>
+</site>
+<site url="http://190.117.78.247/doc/page/login.asp?_1762798797617">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+<site url="http://190.117.78.247/doc/page/login.asp">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+<site url="http://190.117.78.247/doc/page/preview.asp">
+<compat-mode>Default</compat-mode>
+<open-in>IE11</open-in>
+</site>
+</site-list>
