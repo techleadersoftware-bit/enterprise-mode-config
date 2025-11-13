@@ -11,4 +11,17 @@
 <site url="http://192.168.0.64/doc/page/preview.asp">
 <open-in allow-redirect="true">IE11</open-in>
 </site>
+<site url="http://192.168.1.64/">
+<open-in allow-redirect="true">IE11</open-in>
+</site>
+<site url="http://192.168.1.64/doc/page/login.asp?_1762798797617">
+<open-in allow-redirect="true">IE11</open-in>
+</site>
+<site url="http://192.168.1.64/doc/page/login.asp">
+<open-in allow-redirect="true">IE11</open-in>
+</site>
+<site url="http://192.168.1.64/doc/page/preview.asp">
+<open-in allow-redirect="true">IE11</open-in>
+</site>
+  
 </site-list>
