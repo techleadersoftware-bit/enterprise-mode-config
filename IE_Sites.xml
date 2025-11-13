@@ -1,14 +1,14 @@
 <site-list version="99">
-<site url="http://190.117.78.247/">
+<site url="http://192.168.0.64/">
 <open-in allow-redirect="true">IE11</open-in>
 </site>
-<site url="http://190.117.78.247/doc/page/login.asp?_1762798797617">
+<site url="http://192.168.0.64/doc/page/login.asp?_1762798797617">
 <open-in allow-redirect="true">IE11</open-in>
 </site>
-<site url="http://190.117.78.247/doc/page/login.asp">
+<site url="http://192.168.0.64/doc/page/login.asp">
 <open-in allow-redirect="true">IE11</open-in>
 </site>
-<site url="http://190.117.78.247/doc/page/preview.asp">
+<site url="http://192.168.0.64/doc/page/preview.asp">
 <open-in allow-redirect="true">IE11</open-in>
 </site>
 </site-list>
